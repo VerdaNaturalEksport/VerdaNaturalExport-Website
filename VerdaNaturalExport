@@ -1,0 +1,2574 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="VerdaNaturalEksport - Premium Coco Peat, Cocofiber & Coconut Shell Briquettes Charcoal Exporter from Salatiga, Indonesia">
+    <meta name="keywords" content="coco peat exporter, cocofiber export, coconut shell charcoal, agricultural products indonesia, verda natural export, salatiga exporter">
+    <title>VerdaNaturalEksport - Premium Agricultural Products Export</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>VERDA<span>NATURAL</span></h1>
+                <p>Premium Agricultural Solutions - Salatiga, Indonesia</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="hooks.html">Testimonials</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Premium Coco Peat, Cocofiber & Coconut Shell Charcoal</h1>
+                <p>High-quality natural agricultural products from VerdaNaturalEksport, Salatiga, Central Java, Indonesia for international markets</p>
+                <div class="cta-buttons">
+                    <a href="products.html" class="btn-primary">View Products</a>
+                    <a href="contact.html" class="btn-secondary">Get Quote</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Preview -->
+    <section class="products-preview">
+        <div class="container">
+            <h2>Our Premium Products</h2>
+            <div class="product-grid">
+                <div class="product-card">
+                    <div class="product-placeholder" style="background: #27ae60;">
+                        <i class="fas fa-leaf"></i>
+                    </div>
+                    <h3>Coco Peat</h3>
+                    <p>High-quality compressed coco peat blocks and grow bags</p>
+                </div>
+                <div class="product-card">
+                    <div class="product-placeholder" style="background: #27ae60;">
+                        <i class="fas fa-seedling"></i>
+                    </div>
+                    <h3>Cocofiber</h3>
+                    <p>Pure natural coconut fiber for various applications</p>
+                </div>
+                <div class="product-card">
+                    <div class="product-placeholder" style="background: #27ae60;">
+                        <i class="fas fa-fire"></i>
+                    </div>
+                    <h3>Coconut Shell Charcoal</h3>
+                    <p>Premium smokeless charcoal for heating applications</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Preview -->
+    <section class="about-preview">
+        <div class="container">
+            <div class="about-content">
+                <div class="about-text">
+                    <h2>About VerdaNaturalEksport</h2>
+                    <p>VerdaNaturalEksport is a professional agricultural products exporter based in Salatiga, Central Java, Indonesia. We specialize in premium quality coco peat, cocofiber, and coconut shell briquettes charcoal for international markets.</p>
+                    <a href="about.html" class="btn-primary">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/6281229141609" target="_blank" class="floating-whatsapp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>VerdaNaturalEksport</h3>
+                    <p>Premium agricultural products exporter from Salatiga, Central Java, Indonesia.</p>
+                    <div class="social-media-buttons">
+                        <a href="https://wa.me/6281229141609" target="_blank" class="social-btn whatsapp">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <a href="https://www.instagram.com/verdanaturalexports" target="_blank" class="social-btn instagram">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="https://www.tiktok.com/@verda.natural.export" target="_blank" class="social-btn tiktok">
+                            <i class="fab fa-tiktok"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="hooks.html">Testimonials</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Products</h3>
+                    <ul>
+                        <li><a href="products.html#coco-peat">Coco Peat</a></li>
+                        <li><a href="products.html#cocofiber">Cocofiber</a></li>
+                        <li><a href="products.html#charcoal">Coconut Shell Charcoal</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Contact Info</h3>
+                    <p>📧 VerdaNaturalEksport@gmail.com</p>
+                    <p>📱 +62 812-2914-1609</p>
+                    <p>🏢 Salatiga, Central Java, Indonesia</p>
+                </div>
+            </div>
+            
+            <div class="copyright">
+                <p>&copy; 2024 VerdaNaturalEksport. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Premium Coco Peat, Cocofiber & Coconut Shell Briquettes Charcoal Products from VerdaNaturalEksport, Salatiga, Indonesia">
+    <meta name="keywords" content="coco peat specifications, cocofiber quality, coconut charcoal products, agricultural export products">
+    <title>Products | VerdaNaturalEksport</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>VERDA<span>NATURAL</span></h1>
+                <p>Premium Agricultural Solutions - Salatiga, Indonesia</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html" class="active">Products</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="hooks.html">Testimonials</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="page-header">
+        <div class="container">
+            <h1>Our Products</h1>
+            <p>Premium quality agricultural products for international markets</p>
+        </div>
+    </section>
+
+    <!-- Coco Peat Section -->
+    <section id="coco-peat" class="product-detail">
+        <div class="container">
+            <div class="product-content">
+                <div class="product-image">
+                    <div class="image-placeholder" style="background: #27ae60;">
+                        <i class="fas fa-leaf"></i>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h2>Coco Peat (Coco Coir)</h2>
+                    <p>Our premium coco peat is made from 100% natural coconut husks, processed to the highest international standards.</p>
+                    
+                    <h3>Specifications:</h3>
+                    <div class="specification-table">
+                        <table>
+                            <tr>
+                                <th>Parameter</th>
+                                <th>Specification</th>
+                            </tr>
+                            <tr>
+                                <td>Electrical Conductivity (EC)</td>
+                                <td>Maksimal 0.5 – 1.0 dS/m (rendah dan tidak toksik bagi tanaman)</td>
+                            </tr>
+                            <tr>
+                                <td>pH</td>
+                                <td>5.5 – 6.8 (netral hingga sedikit asam, ideal untuk tanaman hortikultura)</td>
+                            </tr>
+                            <tr>
+                                <td>C:N Ratio (Carbon:Nitrogen)</td>
+                                <td>< 20:1 (tidak menyerap nitrogen dari tanah saat digunakan)</td>
+                            </tr>
+                            <tr>
+                                <td>Moisture Content</td>
+                                <td>20% – 30% (pengiriman stabil dan aman, tidak terlalu basah/kering)</td>
+                            </tr>
+                            <tr>
+                                <td>Fiber Length</td>
+                                <td>3–10 mm (tergantung aplikasi, tapi umumnya short fiber untuk media tanam)</td>
+                            </tr>
+                            <tr>
+                                <td>Ash Content</td>
+                                <td>< 5%</td>
+                            </tr>
+                            <tr>
+                                <td>Bulk Density</td>
+                                <td>100–150 kg/m³ (ringan tapi padat saat dikompresi)</td>
+                            </tr>
+                            <tr>
+                                <td>Free from Pathogens & Weeds</td>
+                                <td>steril, bebas jamur, bakteri, biji gulma</td>
+                            </tr>
+                            <tr>
+                                <td>Heavy Metals</td>
+                                <td>Pb < 10 ppm, Cd < 0.5 ppm, As < 2 ppm (sesuai standar EU & KMFDS)</td>
+                            </tr>
+                        </table>
+                    </div>
+                    
+                    <h3>Packaging Options:</h3>
+                    <ul>
+                        <li>Compressed block: 5kg, 6.5kg, 10kg (expands to 65L–75L)</li>
+                        <li>Vacuum packed, moisture-proof bag</li>
+                        <li>Label bilingual (Inggris + Hangul/Korea)</li>
+                        <li>QR code untuk traceability (dari perkebunan hingga ekspor)</li>
+                    </ul>
+                    
+                    <a href="contact.html" class="btn-primary">Request Quote</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cocofiber Section -->
+    <section id="cocofiber" class="product-detail bg-light">
+        <div class="container">
+            <div class="product-content">
+                <div class="product-image">
+                    <div class="image-placeholder" style="background: #27ae60;">
+                        <i class="fas fa-seedling"></i>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h2>Cocofiber (Coconut Fiber)</h2>
+                    <p>High-quality natural cocofiber perfect for horticulture, erosion control, and industrial applications.</p>
+                    
+                    <h3>Specifications:</h3>
+                    <div class="specification-table">
+                        <table>
+                            <tr>
+                                <th>Parameter</th>
+                                <th>Specification</th>
+                            </tr>
+                            <tr>
+                                <td>Panjang Serat</td>
+                                <td>5–30 cm (tergantung aplikasi)</td>
+                            </tr>
+                            <tr>
+                                <td>Kadar Lignin</td>
+                                <td>30–45% (Tinggi lignin = lebih tahan air & biodegradasi lambat)</td>
+                            </tr>
+                            <tr>
+                                <td>Moisture Content</td>
+                                <td>< 15% (Untuk pengiriman & penyimpanan)</td>
+                            </tr>
+                            <tr>
+                                <td>Ash Content</td>
+                                <td>< 5% (Indikator kemurnian serat)</td>
+                            </tr>
+                            <tr>
+                                <td>Tenacity (Kekuatan Tarik)</td>
+                                <td>> 150 MPa (Harus kuat untuk aplikasi geotextile)</td>
+                            </tr>
+                            <tr>
+                                <td>Color</td>
+                                <td>Light brown to golden (Lebih putih = lebih banyak diproses/bleaching)</td>
+                            </tr>
+                            <tr>
+                                <td>pH</td>
+                                <td>5.8 – 6.8 (Netral, tidak mempengaruhi tanah)</td>
+                            </tr>
+                            <tr>
+                                <td>EC (Electrical Conductivity)</td>
+                                <td>< 1.0 dS/m (Rendah garam, terutama untuk aplikasi pertanian)</td>
+                            </tr>
+                            <tr>
+                                <td>Beberapa butir pasir/debris</td>
+                                <td>Minimal (maks 2%)</td>
+                            </tr>
+                            <tr>
+                                <td>Beberapa biji & kulit kelapa</td>
+                                <td>bersih</td>
+                            </tr>
+                        </table>
+                    </div>
+                    
+                    <h3>Packaging:</h3>
+                    <ul>
+                        <li>Bentuk: Loose fiber, compressed bales (100–200 kg)</li>
+                        <li>Kemasan: PP woven bag, moisture-proof lining</li>
+                        <li>Label: Nama produk, negara asal, berat, EC, pH, batch number</li>
+                        <li>Pengiriman: FOB Surabaya/Tanjung Perak (pelabuhan utama ekspor coir)</li>
+                        <li>Lead Time: 15–30 hari dari order</li>
+                    </ul>
+                    
+                    <a href="contact.html" class="btn-primary">Request Quote</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Coconut Shell Charcoal Section -->
+    <section id="charcoal" class="product-detail">
+        <div class="container">
+            <div class="product-content">
+                <div class="product-image">
+                    <div class="image-placeholder" style="background: #27ae60;">
+                        <i class="fas fa-fire"></i>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h2>Coconut Shell Briquettes Charcoal</h2>
+                    <p>Premium smokeless coconut shell charcoal for heating and industrial applications.</p>
+                    
+                    <h3>Specifications:</h3>
+                    <div class="specification-table">
+                        <table>
+                            <tr>
+                                <th>Parameter</th>
+                                <th>Specification</th>
+                            </tr>
+                            <tr>
+                                <td>Moisture Content</td>
+                                <td>< 8% (Semakin kering, semakin mudah menyala)</td>
+                            </tr>
+                            <tr>
+                                <td>Ash Content</td>
+                                <td>< 3% (Rendah abu = lebih bersih, premium)</td>
+                            </tr>
+                            <tr>
+                                <td>Fixed Carbon</td>
+                                <td>> 80% (Indikator efisiensi pembakaran)</td>
+                            </tr>
+                            <tr>
+                                <td>Volatile Matter</td>
+                                <td>10–15% (Tidak terlalu banyak agar tidak berasap)</td>
+                            </tr>
+                            <tr>
+                                <td>Calorific Value (HHV)</td>
+                                <td>7,500 – 8,200 kcal/kg (Lebih tinggi dari kayu arang)</td>
+                            </tr>
+                            <tr>
+                                <td>Density</td>
+                                <td>1.0 – 1.3 g/cm³ (Padat, tidak mudah hancur saat transport)</td>
+                            </tr>
+                            <tr>
+                                <td>Burn Time</td>
+                                <td>4–6 jam (per kg)</td>
+                            </tr>
+                            <tr>
+                                <td>Smoke & Odor</td>
+                                <td>Smokeless & odorless (Ideal untuk pasar Jepang, Korea)</td>
+                            </tr>
+                            <tr>
+                                <td>Size & Shape</td>
+                                <td>Bulat (3–5 cm), persegi (5x5x3 cm)</td>
+                            </tr>
+                            <tr>
+                                <td>Heavy Metals</td>
+                                <td>Pb < 5 ppm, Cd < 0.5 ppm, As < 1 ppm (lulus uji lab SGS/BV)</td>
+                            </tr>
+                        </table>
+                    </div>
+                    
+                    <h3>Packaging:</h3>
+                    <ul>
+                        <li>Kemasan: PP woven bag 20kg, 25kg, atau 1.5 ton jumbo bag</li>
+                        <li>Label: Nama produk, berat, moisture, calorific value, negara asal</li>
+                        <li>Pengiriman: FOB Tanjung Perak (Surabaya), Belawan (Medan), atau Jakarta</li>
+                        <li>Lead Time: 14–30 hari dari PO</li>
+                        <li>MOQ: 1 kontainer 20' (± 18–20 ton)</li>
+                    </ul>
+                    
+                    <a href="contact.html" class="btn-primary">Request Quote</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/6281229141609" target="_blank" class="floating-whatsapp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>VerdaNaturalEksport</h3>
+                    <p>Premium agricultural products exporter from Salatiga, Central Java, Indonesia.</p>
+                    <div class="social-media-buttons">
+                        <a href="https://wa.me/6281229141609" target="_blank" class="social-btn whatsapp">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <a href="https://www.instagram.com/verdanaturalexports" target="_blank" class="social-btn instagram">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="https://www.tiktok.com/@verda.natural.export" target="_blank" class="social-btn tiktok">
+                            <i class="fab fa-tiktok"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="hooks.html">Testimonials</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Products</h3>
+                    <ul>
+                        <li><a href="#coco-peat">Coco Peat</a></li>
+                        <li><a href="#cocofiber">Cocofiber</a></li>
+                        <li><a href="#charcoal">Coconut Shell Charcoal</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Contact Info</h3>
+                    <p>📧 VerdaNaturalEksport@gmail.com</p>
+                    <p>📱 +62 812-2914-1609</p>
+                    <p>🏢 Salatiga, Central Java, Indonesia</p>
+                </div>
+            </div>
+            
+            <div class="copyright">
+                <p>&copy; 2024 VerdaNaturalEksport. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="About VerdaNaturalEksport - Professional agricultural products exporter from Salatiga, Indonesia">
+    <meta name="keywords" content="agricultural exporter indonesia, coco peat manufacturer, cocofiber supplier, verda natural export">
+    <title>About Us | VerdaNaturalEksport</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>VERDA<span>NATURAL</span></h1>
+                <p>Premium Agricultural Solutions - Salatiga, Indonesia</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="about.html" class="active">About Us</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="hooks.html">Testimonials</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="page-header">
+        <div class="container">
+            <h1>About Our Company</h1>
+            <p>Your trusted partner in agricultural products export from Salatiga, Indonesia</p>
+        </div>
+    </section>
+
+    <!-- Company Story -->
+    <section class="company-story">
+        <div class="container">
+            <div class="story-content">
+                <div class="story-text">
+                    <h2>Our Story</h2>
+                    <p>VerdaNaturalEksport is a professional agricultural products exporter based in Salatiga, Central Java, Indonesia. Founded with a vision to provide premium quality natural products to international markets, we have been dedicated to excellence in every aspect of our business.</p>
+                    
+                    <p>Located in the heart of Java's agricultural region, we have access to the finest raw materials and modern processing facilities. Our commitment to quality, sustainability, and customer satisfaction has made us a trusted partner for buyers across Europe, Asia, and Americas.</p>
+                    
+                    <h3>Our Mission</h3>
+                    <p>To deliver premium quality agricultural products that help our customers succeed in their businesses while promoting sustainable farming practices and supporting local communities in Indonesia.</p>
+                </div>
+                <div class="story-placeholder">
+                    <div style="background: #27ae60; height: 100%; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem;">
+                        <i class="fas fa-industry"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Certifications -->
+    <section class="certifications">
+        <div class="container">
+            <h2>Our Certifications</h2>
+            <div class="cert-grid">
+                <div class="cert-item">
+                    <div class="cert-placeholder" style="background: #2c3e50;">
+                        <i class="fas fa-certificate"></i>
+                    </div>
+                    <p>ISO 9001:2015</p>
+                </div>
+                <div class="cert-item">
+                    <div class="cert-placeholder" style="background: #2c3e50;">
+                        <i class="fas fa-flask"></i>
+                    </div>
+                    <p>SGS Certified</p>
+                </div>
+                <div class="cert-item">
+                    <div class="cert-placeholder" style="background: #2c3e50;">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <p>Halal Certified</p>
+                </div>
+                <div class="cert-item">
+                    <div class="cert-placeholder" style="background: #2c3e50;">
+                        <i class="fas fa-leaf"></i>
+                    </div>
+                    <p>Organic Certified</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Facilities -->
+    <section class="facilities">
+        <div class="container">
+            <h2>Our Facilities</h2>
+            <div class="facility-grid">
+                <div class="facility-item">
+                    <h3>🏭 Processing Plant</h3>
+                    <p>Modern facilities with advanced processing equipment located in Salatiga, Central Java</p>
+                </div>
+                <div class="facility-item">
+                    <h3>📦 Packaging Center</h3>
+                    <p>Professional packaging for safe international shipping with quality control</p>
+                </div>
+                <div class="facility-item">
+                    <h3>🚢 Logistics</h3>
+                    <p>Efficient shipping and logistics network from Indonesian ports</p>
+                </div>
+                <div class="facility-item">
+                    <h3>🔬 Quality Lab</h3>
+                    <p>Advanced testing equipment for quality assurance and compliance</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Quality Assurance -->
+    <section class="quality-assurance">
+        <div class="container">
+            <h2>Quality Assurance</h2>
+            <div class="quality-content">
+                <div class="quality-item">
+                    <i class="fas fa-flask"></i>
+                    <h3>Laboratory Testing</h3>
+                    <p>All products undergo rigorous laboratory testing to ensure compliance with international standards.</p>
+                </div>
+                <div class="quality-item">
+                    <i class="fas fa-shield-alt"></i>
+                    <h3>Certifications</h3>
+                    <p>ISO 9001, SGS, and other relevant certifications for export markets.</p>
+                </div>
+                <div class="quality-item">
+                    <i class="fas fa-clipboard-check"></i>
+                    <h3>Traceability</h3>
+                    <p>Full traceability from raw material sourcing to final product delivery with QR codes.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/6281229141609" target="_blank" class="floating-whatsapp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>VerdaNaturalEksport</h3>
+                    <p>Premium agricultural products exporter from Salatiga, Central Java, Indonesia.</p>
+                    <div class="social-media-buttons">
+                        <a href="https://wa.me/6281229141609" target="_blank" class="social-btn whatsapp">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <a href="https://www.instagram.com/verdanaturalexports" target="_blank" class="social-btn instagram">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="https://www.tiktok.com/@verda.natural.export" target="_blank" class="social-btn tiktok">
+                            <i class="fab fa-tiktok"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="hooks.html">Testimonials</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Products</h3>
+                    <ul>
+                        <li><a href="products.html#coco-peat">Coco Peat</a></li>
+                        <li><a href="products.html#cocofiber">Cocofiber</a></li>
+                        <li><a href="products.html#charcoal">Coconut Shell Charcoal</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Contact Info</h3>
+                    <p>📧 VerdaNaturalEksport@gmail.com</p>
+                    <p>📱 +62 812-2914-1609</p>
+                    <p>🏢 Salatiga, Central Java, Indonesia</p>
+                </div>
+            </div>
+            
+            <div class="copyright">
+                <p>&copy; 2024 VerdaNaturalEksport. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Gallery of VerdaNaturalEksport premium coco peat, cocofiber, and coconut shell charcoal products">
+    <meta name="keywords" content="coco peat gallery, cocofiber photos, coconut charcoal images, agricultural products gallery">
+    <title>Gallery | VerdaNaturalEksport</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>VERDA<span>NATURAL</span></h1>
+                <p>Premium Agricultural Solutions - Salatiga, Indonesia</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="gallery.html" class="active">Gallery</a></li>
+                    <li><a href="hooks.html">Testimonials</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="page-header">
+        <div class="container">
+            <h1>Our Gallery</h1>
+            <p>Explore our premium products and manufacturing facilities in Salatiga</p>
+        </div>
+    </section>
+
+    <!-- Gallery Categories -->
+    <section class="gallery-categories">
+        <div class="container">
+            <div class="category-filters">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="products">Products</button>
+                <button class="filter-btn" data-filter="manufacturing">Manufacturing</button>
+                <button class="filter-btn" data-filter="facilities">Facilities</button>
+                <button class="filter-btn" data-filter="packaging">Packaging</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Grid -->
+    <section class="gallery-grid">
+        <div class="container">
+            <div class="gallery-items">
+                <!-- Product Images -->
+                <div class="gallery-item" data-category="products">
+                    <div class="gallery-placeholder">
+                        <i class="fas fa-leaf"></i>
+                    </div>
+                    <div class="gallery-overlay">
+                        <h3>Premium Coco Peat Blocks</h3>
+                        <p>High-quality compressed coco peat for horticulture</p>
+                    </div>
+                </div>
+                
+                <div class="gallery-item" data-category="products">
+                    <div class="gallery-placeholder">
+                        <i class="fas fa-seedling"></i>
+                    </div>
+                    <div class="gallery-overlay">
+                        <h3>Natural Cocofiber</h3>
+                        <p>Pure coconut fiber for various applications</p>
+                    </div>
+                </div>
+                
+                <div class="gallery-item" data-category="products">
+                    <div class="gallery-placeholder">
+                        <i class="fas fa-fire"></i>
+                    </div>
+                    <div class="gallery-overlay">
+                        <h3>Coconut Shell Charcoal</h3>
+                        <p>Premium smokeless charcoal briquettes</p>
+                    </div>
+                </div>
+                
+                <!-- Manufacturing Process -->
+                <div class="gallery-item" data-category="manufacturing">
+                    <div class="gallery-placeholder">
+                        <i class="fas fa-cogs"></i>
+                    </div>
+                    <div class="gallery-overlay">
+                        <h3>Processing Facility</h3>
+                        <p>Modern equipment for quality processing in Salatiga</p>
+                    </div>
+                </div>
+                
+                <div class="gallery-item" data-category="manufacturing">
+                    <div class="gallery-placeholder">
+                        <i class="fas fa-conveyor-belt"></i>
+                    </div>
+                    <div class="gallery-overlay">
+                        <h3>Production Line</h3>
+                        <p>Automated production for consistency</p>
+                    </div>
+                </div>
+                
+                <div class="gallery-item" data-category="manufacturing">
+                    <div class="gallery-placeholder">
+                        <i class="fas fa-vial"></i>
+                    </div>
+                    <div class="gallery-overlay">
+                        <h3>Quality Testing</h3>
+                        <p>Rigorous quality control process</p>
+                    </div>
+                </div>
+                
+                <!-- Facilities -->
+                <div class="gallery-item" data-category="facilities">
+                    <div class="gallery-placeholder">
+                        <i class="fas fa-industry"></i>
+                    </div>
+                    <div class="gallery-overlay">
+                        <h3>Factory Exterior</h3>
+                        <p>Our main manufacturing facility in Salatiga</p>
+                    </div>
+                </div>
+                
+                <div class="gallery-item" data-category="facilities">
+                    <div class="gallery-placeholder">
+                        <i class="fas fa-warehouse"></i>
+                    </div>
+                    <div class="gallery-overlay">
+                        <h3>Storage Facility</h3>
+                        <p>Climate-controlled storage in Central Java</p>
+                    </div>
+                </div>
+                
+                <!-- Packaging -->
+                <div class="gallery-item" data-category="packaging">
+                    <div class="gallery-placeholder">
+                        <i class="fas fa-box"></i>
+                    </div>
+                    <div class="gallery-overlay">
+                        <h3>Packaging Process</h3>
+                        <p>Professional packaging for export</p>
+                    </div>
+                </div>
+                
+                <div class="gallery-item" data-category="packaging">
+                    <div class="gallery-placeholder">
+                        <i class="fas fa-ship"></i>
+                    </div>
+                    <div class="gallery-overlay">
+                        <h3>Loaded Containers</h3>
+                        <p>Ready for international shipping</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Lightbox Modal -->
+    <div id="lightbox" class="lightbox">
+        <span class="close-lightbox">&times;</span>
+        <img class="lightbox-content" id="lightbox-img">
+        <div class="lightbox-caption"></div>
+    </div>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/6281229141609" target="_blank" class="floating-whatsapp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>VerdaNaturalEksport</h3>
+                    <p>Premium agricultural products exporter from Salatiga, Central Java, Indonesia.</p>
+                    <div class="social-media-buttons">
+                        <a href="https://wa.me/6281229141609" target="_blank" class="social-btn whatsapp">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <a href="https://www.instagram.com/verdanaturalexports" target="_blank" class="social-btn instagram">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="https://www.tiktok.com/@verda.natural.export" target="_blank" class="social-btn tiktok">
+                            <i class="fab fa-tiktok"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="hooks.html">Testimonials</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Products</h3>
+                    <ul>
+                        <li><a href="products.html#coco-peat">Coco Peat</a></li>
+                        <li><a href="products.html#cocofiber">Cocofiber</a></li>
+                        <li><a href="products.html#charcoal">Coconut Shell Charcoal</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Contact Info</h3>
+                    <p>📧 VerdaNaturalEksport@gmail.com</p>
+                    <p>📱 +62 812-2914-1609</p>
+                    <p>🏢 Salatiga, Central Java, Indonesia</p>
+                </div>
+            </div>
+            
+            <div class="copyright">
+                <p>&copy; 2024 VerdaNaturalEksport. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Customer testimonials and success stories from VerdaNaturalEksport agricultural products export business">
+    <meta name="keywords" content="customer testimonials, agricultural export reviews, coco peat testimonials, verda natural export reviews">
+    <title>Testimonials | VerdaNaturalEksport</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>VERDA<span>NATURAL</span></h1>
+                <p>Premium Agricultural Solutions - Salatiga, Indonesia</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="hooks.html" class="active">Testimonials</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="page-header">
+        <div class="container">
+            <h1>Customer Testimonials</h1>
+            <p>Hear what our international buyers say about our products from Salatiga</p>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="testimonials-grid">
+                <!-- Testimonial 1 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <div class="testimonial-avatar">
+                            <i class="fas fa-user"></i>
+                        </div>
+                        <div>
+                            <h3>John Smith</h3>
+                            <p>Greenhouse Manager, Netherlands</p>
+                            <div class="rating">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"The coco peat quality from VerdaNaturalEksport is exceptional. We've been using their products for over 2 years now, and the consistency is remarkable. Our tomato yield increased by 15% after switching to their coco peat."</p>
+                        <div class="testimonial-meta">
+                            <span class="date">March 2024</span>
+                            <span class="product">Coco Peat Blocks</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 2 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <div class="testimonial-avatar">
+                            <i class="fas fa-user"></i>
+                        </div>
+                        <div>
+                            <h3>Maria Garcia</h3>
+                            <p>Import Manager, Spain</p>
+                            <div class="rating">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"Excellent communication and on-time delivery. The cocofiber we ordered met all our specifications. The packaging was professional and the product arrived in perfect condition. Will definitely order again."</p>
+                        <div class="testimonial-meta">
+                            <span class="date">February 2024</span>
+                            <span class="product">Cocofiber</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 3 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <div class="testimonial-avatar">
+                            <i class="fas fa-user"></i>
+                        </div>
+                        <div>
+                            <h3>Thomas Mueller</h3>
+                            <p>Operations Director, Germany</p>
+                            <div class="rating">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"We've been working with VerdaNaturalEksport for 3 years. Their product quality is consistent, prices are competitive, and their customer service is outstanding. They understand our needs and always deliver on time."</p>
+                        <div class="testimonial-meta">
+                            <span class="date">January 2024</span>
+                            <span class="product">Mixed Agricultural Products</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 4 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <div class="testimonial-avatar">
+                            <i class="fas fa-user"></i>
+                        </div>
+                        <div>
+                            <h3>Yamamoto-san</h3>
+                            <p>Purchasing Manager, Japan</p>
+                            <div class="rating">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"The quality certificates and documentation provided by VerdaNaturalEksport make our import process smooth. Their coco peat meets Japanese standards perfectly. We appreciate their attention to detail and professional approach."</p>
+                        <div class="testimonial-meta">
+                            <span class="date">December 2023</span>
+                            <span class="product">Coco Peat Grow Bags</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 5 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <div class="testimonial-avatar">
+                            <i class="fas fa-user"></i>
+                        </div>
+                        <div>
+                            <h3>Sarah Johnson</h3>
+                            <p>Procurement Manager, USA</p>
+                            <div class="rating">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="far fa-star"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"Fast response time and competitive pricing. The cocofiber we received was exactly what we needed for our erosion control project. The fiber length and quality were perfect. Looking forward to our next order."</p>
+                        <div class="testimonial-meta">
+                            <span class="date">November 2023</span>
+                            <span class="product">Cocofiber</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 6 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <div class="testimonial-avatar">
+                            <i class="fas fa-user"></i>
+                        </div>
+                        <div>
+                            <h3>Andrea Rossi</h3>
+                            <p>Supply Chain Manager, Italy</p>
+                            <div class="rating">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"Reliable supplier with excellent product quality. Their coco peat has consistent moisture content and pH levels. The logistics coordination is smooth, and they always keep us updated on shipment status."</p>
+                        <div class="testimonial-meta">
+                            <span class="date">October 2023</span>
+                            <span class="product">Coco Peat Blocks</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="testimonial-cta">
+        <div class="container">
+            <h2>Ready to Experience Premium Quality?</h2>
+            <p>Join hundreds of satisfied customers worldwide from Salatiga, Indonesia</p>
+            <div class="cta-buttons">
+                <a href="contact.html" class="btn-primary">Get Started Today</a>
+                <a href="products.html" class="btn-secondary">View Our Products</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/6281229141609" target="_blank" class="floating-whatsapp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>VerdaNaturalEksport</h3>
+                    <p>Premium agricultural products exporter from Salatiga, Central Java, Indonesia.</p>
+                    <div class="social-media-buttons">
+                        <a href="https://wa.me/6281229141609" target="_blank" class="social-btn whatsapp">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <a href="https://www.instagram.com/verdanaturalexports" target="_blank" class="social-btn instagram">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="https://www.tiktok.com/@verda.natural.export" target="_blank" class="social-btn tiktok">
+                            <i class="fab fa-tiktok"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="hooks.html">Testimonials</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Products</h3>
+                    <ul>
+                        <li><a href="products.html#coco-peat">Coco Peat</a></li>
+                        <li><a href="products.html#cocofiber">Cocofiber</a></li>
+                        <li><a href="products.html#charcoal">Coconut Shell Charcoal</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Contact Info</h3>
+                    <p>📧 VerdaNaturalEksport@gmail.com</p>
+                    <p>📱 +62 812-2914-1609</p>
+                    <p>🏢 Salatiga, Central Java, Indonesia</p>
+                </div>
+            </div>
+            
+            <div class="copyright">
+                <p>&copy; 2024 VerdaNaturalEksport. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contact VerdaNaturalEksport for coco peat, cocofiber and coconut shell charcoal export inquiries">
+    <meta name="keywords" content="contact coco peat exporter, cocofiber supplier contact, coconut charcoal inquiry, verda natural export contact">
+    <title>Contact Us | VerdaNaturalEksport</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>VERDA<span>NATURAL</span></h1>
+                <p>Premium Agricultural Solutions - Salatiga, Indonesia</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="hooks.html">Testimonials</a></li>
+                    <li><a href="contact.html" class="active">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="page-header">
+        <div class="container">
+            <h1>Contact Us</h1>
+            <p>Get in touch for product inquiries and business opportunities</p>
+        </div>
+    </section>
+
+    <!-- Contact Information -->
+    <section class="contact-info">
+        <div class="container">
+            <div class="contact-grid">
+                <div class="contact-item">
+                    <h3>📧 Email</h3>
+                    <p>VerdaNaturalEksport@gmail.com</p>
+                </div>
+                <div class="contact-item">
+                    <h3>📱 WhatsApp</h3>
+                    <p>+62 812-2914-1609</p>
+                </div>
+                <div class="contact-item">
+                    <h3>🏢 Office</h3>
+                    <p>Salatiga, Central Java, Indonesia</p>
+                    <p>Manufacturing Facility: Salatiga Area</p>
+                </div>
+                <div class="contact-item">
+                    <h3>🌐 Social Media</h3>
+                    <p>Instagram: @verdanaturalexports</p>
+                    <p>TikTok: @verda.natural.export</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form -->
+    <section class="contact-form-section">
+        <div class="container">
+            <div class="form-container">
+                <h2>Send Us a Message</h2>
+                <form class="contact-form" action="#" method="POST">
+                    <div class="form-group">
+                        <label for="name">Full Name *</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="company">Company Name *</label>
+                        <input type="text" id="company" name="company" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="email">Email Address *</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="phone">Phone Number *</label>
+                        <input type="tel" id="phone" name="phone" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="country">Country *</label>
+                        <select id="country" name="country" required>
+                            <option value="">Select Country</option>
+                            <option value="USA">United States</option>
+                            <option value="Netherlands">Netherlands</option>
+                            <option value="Germany">Germany</option>
+                            <option value="UK">United Kingdom</option>
+                            <option value="Spain">Spain</option>
+                            <option value="Italy">Italy</option>
+                            <option value="Australia">Australia</option>
+                            <option value="Japan">Japan</option>
+                            <option value="South Korea">South Korea</option>
+                            <option value="Indonesia">Indonesia</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="product">Product Interest *</label>
+                        <select id="product" name="product" required>
+                            <option value="">Select Product</option>
+                            <option value="coco-peat">Coco Peat</option>
+                            <option value="cocofiber">Cocofiber</option>
+                            <option value="charcoal">Coconut Shell Charcoal</option>
+                            <option value="mixed">Mixed Products</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="quantity">Estimated Quantity (MT)</label>
+                        <input type="number" id="quantity" name="quantity">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message">Message *</label>
+                        <textarea id="message" name="message" rows="5" required placeholder="Please tell us about your requirements, including product specifications, quantity, and delivery timeline..."></textarea>
+                    </div>
+                    
+                    <button type="submit" class="btn-primary">Send Message</button>
+                </form>
+            </div>
+            
+            <!-- Quick Inquiry -->
+            <div class="quick-inquiry">
+                <h3>Quick Inquiry</h3>
+                <p>Prefer to contact us directly?</p>
+                <div class="quick-contact">
+                    <p><strong>Email:</strong> VerdaNaturalEksport@gmail.com</p>
+                    <p><strong>WhatsApp:</strong> +62 812-2914-1609</p>
+                    <p>We typically respond within 24 hours during business days.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Map Section -->
+    <section class="map-section">
+        <div class="container">
+            <h2>Our Location</h2>
+            <div class="map-container">
+                <!-- Placeholder for map -->
+                <div style="background: #2c3e50; height: 300px; display: flex; align-items: center; justify-content: center; color: white; border-radius: 10px;">
+                    <div>
+                        <i class="fas fa-map-marker-alt" style="font-size: 3rem; margin-bottom: 1rem;"></i>
+                        <h3>VerdaNaturalEksport</h3>
+                        <p>Salatiga, Central Java, Indonesia</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/6281229141609" target="_blank" class="floating-whatsapp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>VerdaNaturalEksport</h3>
+                    <p>Premium agricultural products exporter from Salatiga, Central Java, Indonesia.</p>
+                    <div class="social-media-buttons">
+                        <a href="https://wa.me/6281229141609" target="_blank" class="social-btn whatsapp">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <a href="https://www.instagram.com/verdanaturalexports" target="_blank" class="social-btn instagram">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="https://www.tiktok.com/@verda.natural.export" target="_blank" class="social-btn tiktok">
+                            <i class="fab fa-tiktok"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="hooks.html">Testimonials</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Products</h3>
+                    <ul>
+                        <li><a href="products.html#coco-peat">Coco Peat</a></li>
+                        <li><a href="products.html#cocofiber">Cocofiber</a></li>
+                        <li><a href="products.html#charcoal">Coconut Shell Charcoal</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Contact Info</h3>
+                    <p>📧 VerdaNaturalEksport@gmail.com</p>
+                    <p>📱 +62 812-2914-1609</p>
+                    <p>🏢 Salatiga, Central Java, Indonesia</p>
+                </div>
+            </div>
+            
+            <div class="copyright">
+                <p>&copy; 2024 VerdaNaturalEksport. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+/* Reset dan Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    scroll-behavior: smooth;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header Styles */
+header {
+    background: #2c3e50;
+    color: white;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.2rem;
+}
+
+.logo h1 span {
+    color: #27ae60;
+}
+
+.logo p {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    color: #27ae60;
+    background: rgba(255,255,255,0.1);
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(rgba(44, 62, 80, 0.9), rgba(44, 62, 80, 0.9)), 
+                url('https://images.unsplash.com/photo-1497302347628-2d7936473c8a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    animation: fadeInUp 1s ease-out;
+}
+
+.hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    animation: fadeInUp 1s ease-out 0.3s both;
+}
+
+.cta-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    animation: fadeInUp 1s ease-out 0.6s both;
+}
+
+/* Buttons */
+.btn-primary, .btn-secondary {
+    padding: 12px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s;
+    display: inline-block;
+    border: 2px solid transparent;
+}
+
+.btn-primary {
+    background: #27ae60;
+    color: white;
+}
+
+.btn-primary:hover {
+    background: transparent;
+    color: #27ae60;
+    border-color: #27ae60;
+}
+
+.btn-secondary {
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+.btn-secondary:hover {
+    background: white;
+    color: #2c3e50;
+}
+
+/* Products Preview */
+.products-preview {
+    padding: 5rem 0;
+    background: #f8f9fa;
+}
+
+.products-preview h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+    color: #2c3e50;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.product-card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+    text-align: center;
+}
+
+.product-card:hover {
+    transform: translateY(-10px);
+}
+
+.product-placeholder {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 3rem;
+}
+
+.product-card h3 {
+    padding: 1rem;
+    color: #2c3e50;
+}
+
+.product-card p {
+    padding: 0 1rem 1rem;
+    color: #666;
+}
+
+/* About Preview */
+.about-preview {
+    padding: 5rem 0;
+}
+
+.about-content {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+.about-text h2 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+.about-text p {
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+/* Page Header */
+.page-header {
+    background: linear-gradient(rgba(44, 62, 80, 0.9), rgba(44, 62, 80, 0.9)), 
+                url('https://images.unsplash.com/photo-1497302347628-2d7936473c8a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.page-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+/* Product Detail */
+.product-detail {
+    padding: 4rem 0;
+}
+
+.product-detail.bg-light {
+    background: #f8f9fa;
+}
+
+.product-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: center;
+}
+
+.image-placeholder {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 4rem;
+    border-radius: 10px;
+}
+
+.product-info h2 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+.product-info h3 {
+    color: #2c3e50;
+    margin: 1.5rem 0 0.5rem;
+}
+
+.product-info ul {
+    list-style: none;
+    margin: 1rem 0;
+}
+
+.product-info ul li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #eee;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.product-info ul li:before {
+    content: "✓";
+    color: #27ae60;
+    position: absolute;
+    left: 0;
+}
+
+/* Specification Table */
+.specification-table {
+    overflow-x: auto;
+    margin: 1rem 0;
+}
+
+.specification-table table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.specification-table th,
+.specification-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.specification-table th {
+    background: #2c3e50;
+    color: white;
+    font-weight: bold;
+}
+
+.specification-table tr:hover {
+    background: #f8f9fa;
+}
+
+/* About Page Styles */
+.company-story {
+    padding: 4rem 0;
+}
+
+.story-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: center;
+}
+
+.story-placeholder {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.story-text h2, .story-text h3 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+.certifications {
+    padding: 4rem 0;
+    background: #f8f9fa;
+}
+
+.certifications h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+    color: #2c3e50;
+}
+
+.cert-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    text-align: center;
+}
+
+.cert-item {
+    padding: 2rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.cert-placeholder {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 2rem;
+}
+
+.facilities {
+    padding: 4rem 0;
+}
+
+.facilities h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+    color: #2c3e50;
+}
+
+.facility-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.facility-item {
+    text-align: center;
+    padding: 2rem;
+    background: #f8f9fa;
+    border-radius: 10px;
+}
+
+.facility-item h3 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+.quality-assurance {
+    padding: 4rem 0;
+    background: #f8f9fa;
+}
+
+.quality-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.quality-item {
+    text-align: center;
+    padding: 2rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+
+.quality-item:hover {
+    transform: translateY(-5px);
+}
+
+.quality-item i {
+    font-size: 3rem;
+    color: #27ae60;
+    margin-bottom: 1rem;
+}
+
+.quality-item h3 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+/* Gallery Styles */
+.gallery-categories {
+    padding: 2rem 0;
+    background: #f8f9fa;
+}
+
+.category-filters {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.filter-btn {
+    padding: 10px 20px;
+    background: white;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-weight: 500;
+}
+
+.filter-btn:hover,
+.filter-btn.active {
+    background: #27ae60;
+    color: white;
+    border-color: #27ae60;
+}
+
+.gallery-grid {
+    padding: 3rem 0;
+}
+
+.gallery-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.gallery-item {
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+
+.gallery-placeholder {
+    height: 250px;
+    background: #27ae60;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 3rem;
+}
+
+.gallery-item:hover .gallery-placeholder {
+    transform: scale(1.05);
+}
+
+.gallery-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(44, 62, 80, 0.9);
+    color: white;
+    padding: 1.5rem;
+    transform: translateY(100%);
+    transition: transform 0.3s;
+}
+
+.gallery-item:hover .gallery-overlay {
+    transform: translateY(0);
+}
+
+.gallery-overlay h3 {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+/* Lightbox Styles */
+.lightbox {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.9);
+}
+
+.lightbox-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    max-height: 80%;
+    object-fit: contain;
+}
+
+.close-lightbox {
+    position: absolute;
+    top: 50px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.close-lightbox:hover {
+    color: #bbb;
+}
+
+.lightbox-caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Testimonials Styles */
+.testimonials {
+    padding: 4rem 0;
+    background: #f8f9fa;
+}
+
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+}
+
+.testimonial-card {
+    background: white;
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+
+.testimonial-card:hover {
+    transform: translateY(-5px);
+}
+
+.testimonial-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    gap: 1rem;
+}
+
+.testimonial-avatar {
+    width: 60px;
+    height: 60px;
+    background: #27ae60;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.testimonial-header h3 {
+    margin-bottom: 0.2rem;
+    color: #2c3e50;
+}
+
+.testimonial-header p {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.rating {
+    color: #f39c12;
+    margin-top: 0.5rem;
+}
+
+.testimonial-content p {
+    font-style: italic;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    color: #555;
+}
+
+.testimonial-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    color: #888;
+    border-top: 1px solid #eee;
+    padding-top: 1rem;
+}
+
+.testimonial-cta {
+    padding: 5rem 0;
+    text-align: center;
+    background: linear-gradient(135deg, #2c3e50, #34495e);
+    color: white;
+}
+
+.testimonial-cta h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.testimonial-cta p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    opacity: 0.9;
+}
+
+/* Contact Page Styles */
+.contact-info {
+    padding: 4rem 0;
+    background: #f8f9fa;
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.contact-item {
+    text-align: center;
+    padding: 2rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.contact-item h3 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+.contact-form-section {
+    padding: 4rem 0;
+}
+
+.form-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contact-form {
+    background: #f8f9fa;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: #27ae60;
+}
+
+.quick-inquiry {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: #2c3e50;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.map-section {
+    padding: 4rem 0;
+}
+
+.map-section h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #2c3e50;
+}
+
+.map-container {
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Social Media Buttons */
+.social-media-buttons {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.social-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
+
+.social-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+.whatsapp {
+    background: #25D366;
+}
+
+.instagram {
+    background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D);
+}
+
+.tiktok {
+    background: #000000;
+}
+
+/* Floating WhatsApp Button */
+.floating-whatsapp {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 9999;
+    width: 60px;
+    height: 60px;
+    background: #25D366;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    box-shadow: 0 5px 15px rgba(37, 211, 102, 0.4);
+    animation: pulse 2s infinite;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.floating-whatsapp:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 20px rgba(37, 211, 102, 0.6);
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.7);
+    }
+    70% {
+        box-shadow: 0 0 0 15px rgba(37, 211, 102, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(37, 211, 102, 0);
+    }
+}
+
+/* Footer */
+footer {
+    background: #2c3e50;
+    color: white;
+    padding: 3rem 0 1rem;
+    text-align: center;
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+    text-align: left;
+}
+
+.footer-section h3 {
+    margin-bottom: 1rem;
+    color: #27ae60;
+}
+
+.footer-section ul {
+    list-style: none;
+}
+
+.footer-section ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-section ul li a {
+    color: #ddd;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-section ul li a:hover {
+    color: #27ae60;
+}
+
+.copyright {
+    border-top: 1px solid #444;
+    padding-top: 1rem;
+    margin-top: 2rem;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+    
+    .hero-content p {
+        font-size: 1rem;
+    }
+    
+    .product-content,
+    .story-content {
+        grid-template-columns: 1fr;
+    }
+    
+    nav ul {
+        gap: 1rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .cta-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    header .container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    .about-content {
+        flex-direction: column;
+    }
+    
+    .social-media-buttons {
+        justify-content: center;
+    }
+    
+    .floating-whatsapp {
+        width: 50px;
+        height: 50px;
+        font-size: 1.5rem;
+        bottom: 20px;
+        right: 20px;
+    }
+    
+    .testimonials-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .testimonial-header {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .gallery-items {
+        grid-template-columns: 1fr;
+    }
+}
+
+// Smooth scrolling for anchor links
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            target.scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+    });
+});
+
+// Add active class to navigation based on scroll
+window.addEventListener('scroll', function() {
+    const sections = document.querySelectorAll('section');
+    const navLinks = document.querySelectorAll('nav ul li a');
+    
+    let current = '';
+    
+    sections.forEach(section => {
+        const sectionTop = section.offsetTop;
+        const sectionHeight = section.clientHeight;
+        
+        if (pageYOffset >= (sectionTop - 100)) {
+            current = section.getAttribute('id');
+        }
+    });
+    
+    navLinks.forEach(link => {
+        link.classList.remove('active');
+        if (link.getAttribute('href').includes(current) || 
+            (current === '' && link.getAttribute('href') === 'index.html')) {
+            link.classList.add('active');
+        }
+    });
+});
+
+// Gallery filtering
+document.addEventListener('DOMContentLoaded', function() {
+    // Gallery filtering
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    const galleryItems = document.querySelectorAll('.gallery-item');
+    
+    if (filterBtns.length > 0 && galleryItems.length > 0) {
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                // Remove active class from all buttons
+                filterBtns.forEach(b => b.classList.remove('active'));
+                // Add active class to clicked button
+                this.classList.add('active');
+                
+                const filter = this.getAttribute('data-filter');
+                
+                galleryItems.forEach(item => {
+                    if (filter === 'all' || item.getAttribute('data-category') === filter) {
+                        item.style.display = 'block';
+                    } else {
+                        item.style.display = 'none';
+                    }
+                });
+            });
+        });
+    }
+    
+    // Lightbox functionality
+    const galleryItems = document.querySelectorAll('.gallery-item');
+    const lightbox = document.getElementById('lightbox');
+    
+    if (galleryItems.length > 0 && lightbox) {
+        const lightboxImg = document.getElementById('lightbox-img');
+        const closeLightbox = document.querySelector('.close-lightbox');
+        const lightboxCaption = document.querySelector('.lightbox-caption');
+        
+        galleryItems.forEach(item => {
+            item.addEventListener('click', function() {
+                const icon = this.querySelector('i').className;
+                const caption = this.querySelector('h3').textContent;
+                const description = this.querySelector('p').textContent;
+                
+                // In a real implementation, you would set the actual image
+                // For now, we'll just show the icon
+                lightboxImg.style.display = 'none';
+                lightboxCaption.innerHTML = `<h3>${caption}</h3><p>${description}</p>`;
+                lightbox.style.display = 'block';
+                document.body.style.overflow = 'hidden';
+            });
+        });
+        
+        closeLightbox.addEventListener('click', function() {
+            lightbox.style.display = 'none';
+            document.body.style.overflow = 'auto';
+        });
+        
+        lightbox.addEventListener('click', function(e) {
+            if (e.target === lightbox) {
+                lightbox.style.display = 'none';
+                document.body.style.overflow = 'auto';
+            }
+        });
+        
+        // Close lightbox with ESC key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && lightbox.style.display === 'block') {
+                lightbox.style.display = 'none';
+                document.body.style.overflow = 'auto';
+            }
+        });
+    }
+});
+
+// Form validation
+function validateForm(form) {
+    let isValid = true;
+    const requiredFields = form.querySelectorAll('[required]');
+    
+    requiredFields.forEach(field => {
+        if (!field.value.trim()) {
+            isValid = false;
+            field.style.borderColor = '#e74c3c';
+            setTimeout(() => {
+                field.style.borderColor = '#ddd';
+            }, 3000);
+        }
+    });
+    
+    return isValid;
+}
+
+// Contact form submission
+if (document.querySelector('.contact-form')) {
+    document.querySelector('.contact-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        if (validateForm(this)) {
+            // Here you would typically send the form data to your server
+            // For now, we'll show a success message
+            alert('Thank you for your message! We will contact you soon via WhatsApp or email.');
+            this.reset();
+        }
+    });
+}
+
+// WhatsApp integration function
+function openWhatsApp() {
+    window.open('https://wa.me/6281229141609', '_blank');
+}
+
+// Instagram integration function
+function openInstagram() {
+    window.open('https://www.instagram.com/verdanaturalexports', '_blank');
+}
+
+// TikTok integration function
+function openTikTok() {
+    window.open('https://www.tiktok.com/@verda.natural.export', '_blank');
+}
+
+// Console message
+console.log('VerdaNaturalEksport Website Loaded Successfully!');
+
+// Auto-hide floating WhatsApp button on mobile when scrolling down
+let lastScrollTop = 0;
+const floatingBtn = document.querySelector('.floating-whatsapp');
+
+if (floatingBtn) {
+    window.addEventListener('scroll', function() {
+        let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+        
+        if (scrollTop > lastScrollTop && scrollTop > 100) {
+            // Scrolling down
+            floatingBtn.style.opacity = '0.5';
+        } else {
+            // Scrolling up
+            floatingBtn.style.opacity = '1';
+        }
+        
+        lastScrollTop = scrollTop;
+    });
+}
